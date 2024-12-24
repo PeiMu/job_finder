@@ -20,12 +20,12 @@ Many existing job search apps prioritize employers or take a neutral stance.
 At `job_finder`, we take a bold step in the other direction—creating an app that stands firmly on the side of the job seeker. Our goal is to offer an intuitive, user-first experience that truly simplifies the job search process.
 
 ## Why `job_finder`
-| Features                                                                 | Your App | Other Apps |
-|--------------------------------------------------------------------------|----------|------------|
-| Summarizes job information and recommends the **best-matched job**       | ✔️       | ❌         |
-| Provides the **highest possible salary** with the recommended job        | ✔️       | ❌         |
-| Provides job ads or opportunities                                        | ❌       | ✔️         |
-| Shared information from successful job seekers                           | ❌       | ✔️         |
+| Features                                                                 | `job_finder` | Other Apps |
+|--------------------------------------------------------------------------|--------------|------------|
+| Summarizes job information and recommends the **best-matched job**       | ✔️           | ❌         |
+| Provides the **highest possible salary** with the recommended job        | ✔️           | ❌         |
+| Provides job ads or opportunities                                        | ❌           | ✔️         |
+| Shared information from successful job seekers                           | ❌           | ✔️         |
 
 ---
 
