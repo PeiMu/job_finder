@@ -7,18 +7,6 @@ Although there are many apps designed to help people search for jobs, none yet p
 
 `job_finder` is designed to bridge this gap. By summarizing job advertisements and publicly shared insights from other job seekers, this project aims to provide users with the most relevant opportunities and maximize their potential earnings.
 
-## Vision
-With the severe global economic situation and mass unemployment, the world situation is becoming increasingly unstable.
-
-At `job_finder`, we avoid empty rhetoric and instead focus on making a meaningful difference for job seekers worldwide.
-
-Our goal is simple yet profound: to empower every individual to find a job that meets their needs and helps them achieve a happier, more fulfilling life.
-
-## Philosophy
-Many existing job search apps prioritize employers or take a neutral stance.
-
-At `job_finder`, we take a bold step in the other direction—creating an app that stands firmly on the side of the job seeker. Our goal is to offer an intuitive, user-first experience that truly simplifies the job search process.
-
 ## Why `job_finder`
 | Features                                                                 | `job_finder` | Other Apps |
 |--------------------------------------------------------------------------|--------------|------------|
@@ -42,6 +30,18 @@ At `job_finder`, we take a bold step in the other direction—creating an app th
 
 #### 4. **Focused Approach**
    - `job_finder` eliminates distractions from irrelevant job postings or redundant information by prioritizing **quality over quantity**.
+
+## Vision
+With the severe global economic situation and mass unemployment, the world situation is becoming increasingly unstable.
+
+At `job_finder`, we avoid empty rhetoric and instead focus on making a meaningful difference for job seekers worldwide.
+
+Our goal is simple yet profound: to empower every individual to find a job that meets their needs and helps them achieve a happier, more fulfilling life.
+
+## Philosophy
+Many existing job search apps prioritize employers or take a neutral stance.
+
+At `job_finder`, we take a bold step in the other direction—creating an app that stands firmly on the side of the job seeker. Our goal is to offer an intuitive, user-first experience that truly simplifies the job search process.
 
 ## Main Pipeline
 1. Periodically gather:
